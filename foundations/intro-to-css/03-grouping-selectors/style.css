@@ -1,0 +1,14 @@
+.button-is-dark,
+.button-is-primary {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.button-is-dark {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-is-primary {
+  background-color: #ffff00;
+}
